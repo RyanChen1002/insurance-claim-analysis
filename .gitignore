@@ -1,0 +1,46 @@
+# Raw data files
+data/
+*.csv
+*.zip
+*.xls
+*.xlsx
+*.txt
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging/build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# Testing/cache
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+# VS Code
+.vscode/
+
+# Ruff
+.ruff_cache/
